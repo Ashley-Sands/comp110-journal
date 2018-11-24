@@ -1,0 +1,40 @@
+## Comp-120 - Tinkering with audio
+
+# An Analysis of Alpha-Beta Pruning [pruning]
+1.
+Is there any links with the bellmans theroy?
+Is there links with deep nural networks
+Is this the same or a simular method to deep blue (i think that what its called), chese AI
+Has this got anything to do with the monte-carlo search tree
+
+2.
+What is Branch-and-bound technique? [14]
+
+Alpha beta pruning ignores moves that can not be better than move we already known
+
+Alpha-Beta Pruning is a combaination of, lower and uper bounds searches of all legal moves? 
+ignoring thoses that can not be better that was is already knowen.
+
+3.
+What is negamax
+
+4.
+Floyed in 1965 [6]
+Greenblatt's chess program [8].
+
+5.
+The first published discussion of a method for game tree pruning appeared in Newell, Shaw and Simon's description [16]
+
+how does McCarthy papper releate to this
+Hart and Edwards papper [10]
+Was this papper writen to demonstrate it validity as Hart and Edwards papper did not?
+
+Brudo was the first published account of alpha beta [4]
+
+Alpha beta pruning first appered in "western" computer-science litrature in 1968 [24] but it was somewhat vague and dident include deep-cuts
+but it wasent untill 1969 that the first real description of method appeared in articles Slagle and Dixon [25] and Samuel [22] which both included deep-cutsoffs
+
+Alpha beta pruning is hard to explane when it comes to concentional mathematics but it is much easyer to understand in the algorithmic form. Acording to the authors of An Analysis of Alpha-Beta pruning [pruning] there was only two pappers which nither painted the full picture they where either hard to prove or did not include deep-cuts. It was aparent that many people at the time where not aware that the alpha-beta procedure was capable of making deep cutoffs. For these resasons D. E. Knuth and R. W. Moore felt it was nessaray to present a new account of the method and clear things up with there papper 'An Analysis of Alpha-Beta Pruning' [pruning, {More Needed}], even thought apha-beta pruning has been araound for over 15 years.
+
+6.
+This corollary was first derived by Levin in 1961, but no proof was apparently ever written down at the time. [10]
