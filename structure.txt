@@ -1,0 +1,11 @@
+
+## Iterduction
+	interduce the papper, sumarize it and bref decription of what we are going with the papper
+
+## History of Alpha-Beta Pruning
+
+## Why An analysis of alpha-beta pruning was nessary
+
+## Lasting infulences
+
+## Conclusion
