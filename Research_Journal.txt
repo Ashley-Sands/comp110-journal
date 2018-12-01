@@ -38,3 +38,9 @@ Alpha beta pruning is hard to explane when it comes to concentional mathematics 
 
 6.
 This corollary was first derived by Levin in 1961, but no proof was apparently ever written down at the time. [10]
+
+
+#####################
+Deep Blue
+
+In [YEAR GOES HERE] IBM created an AI capabal of beting the world champion of chess
